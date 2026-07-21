@@ -7,7 +7,7 @@ Stop manually switching sites, translating text, and converting currencies. This
 
 What You Get:
 
-Global Search: Scans eBay US, UK, IT, FR, DE, ES, AU, and CA all at once.
+Global Search: Scans available for US, UK, IT, FR, DE, ES, AU, and CA
 
 Smart Parsing: Automatically translates search terms and handles European currency conversions.
 
