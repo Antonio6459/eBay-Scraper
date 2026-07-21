@@ -22,3 +22,5 @@ How to Use It:
 2 -> Double-click Scrappy.exe.
 
 3 -> Type your product and see the deals roll in
+
+It costs €13. Download the Script Instantly on Gumroad: https://antonio267.gumroad.com/l/mvyry
